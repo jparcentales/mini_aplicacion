@@ -40,6 +40,15 @@ body {
   color: #9ca3af;
 }
 
+.loading-box {
+  min-height: 160px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
 h1,
 h2,
 h3,
